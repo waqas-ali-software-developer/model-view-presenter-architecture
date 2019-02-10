@@ -1,0 +1,10 @@
+E:\test_assignment\MVP\MVPArchitecture\Entity\bin\Debug\Entity.dll
+E:\test_assignment\MVP\MVPArchitecture\Entity\bin\Debug\Entity.pdb
+E:\test_assignment\MVP\MVPArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\test_assignment\MVP\MVPArchitecture\Entity\obj\Debug\Entity.dll
+E:\test_assignment\MVP\MVPArchitecture\Entity\obj\Debug\Entity.pdb
+E:\GitHub_Deployment\MVPArchitecture\Entity\bin\Debug\Entity.dll
+E:\GitHub_Deployment\MVPArchitecture\Entity\bin\Debug\Entity.pdb
+E:\GitHub_Deployment\MVPArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\GitHub_Deployment\MVPArchitecture\Entity\obj\Debug\Entity.dll
+E:\GitHub_Deployment\MVPArchitecture\Entity\obj\Debug\Entity.pdb

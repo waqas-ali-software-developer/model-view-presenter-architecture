@@ -1,0 +1,14 @@
+E:\test_assignment\MVP\MVPArchitecture\View\bin\Debug\View.dll
+E:\test_assignment\MVP\MVPArchitecture\View\bin\Debug\View.pdb
+E:\test_assignment\MVP\MVPArchitecture\View\bin\Debug\Entity.dll
+E:\test_assignment\MVP\MVPArchitecture\View\bin\Debug\Entity.pdb
+E:\test_assignment\MVP\MVPArchitecture\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\test_assignment\MVP\MVPArchitecture\View\obj\Debug\View.dll
+E:\test_assignment\MVP\MVPArchitecture\View\obj\Debug\View.pdb
+E:\GitHub_Deployment\MVPArchitecture\View\bin\Debug\View.dll
+E:\GitHub_Deployment\MVPArchitecture\View\bin\Debug\View.pdb
+E:\GitHub_Deployment\MVPArchitecture\View\bin\Debug\Entity.dll
+E:\GitHub_Deployment\MVPArchitecture\View\bin\Debug\Entity.pdb
+E:\GitHub_Deployment\MVPArchitecture\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\GitHub_Deployment\MVPArchitecture\View\obj\Debug\View.dll
+E:\GitHub_Deployment\MVPArchitecture\View\obj\Debug\View.pdb

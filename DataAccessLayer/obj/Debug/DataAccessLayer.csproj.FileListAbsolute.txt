@@ -1,0 +1,14 @@
+E:\test_assignment\MVP\MVPArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\test_assignment\MVP\MVPArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\test_assignment\MVP\MVPArchitecture\DataAccessLayer\bin\Debug\Entity.dll
+E:\test_assignment\MVP\MVPArchitecture\DataAccessLayer\bin\Debug\Entity.pdb
+E:\test_assignment\MVP\MVPArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\test_assignment\MVP\MVPArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\test_assignment\MVP\MVPArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\GitHub_Deployment\MVPArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\GitHub_Deployment\MVPArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\GitHub_Deployment\MVPArchitecture\DataAccessLayer\bin\Debug\Entity.dll
+E:\GitHub_Deployment\MVPArchitecture\DataAccessLayer\bin\Debug\Entity.pdb
+E:\GitHub_Deployment\MVPArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\GitHub_Deployment\MVPArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\GitHub_Deployment\MVPArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
